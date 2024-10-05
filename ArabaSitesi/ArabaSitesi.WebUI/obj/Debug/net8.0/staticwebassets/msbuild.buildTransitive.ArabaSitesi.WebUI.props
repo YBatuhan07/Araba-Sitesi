@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ArabaSitesi.WebUI.props" />
+</Project>

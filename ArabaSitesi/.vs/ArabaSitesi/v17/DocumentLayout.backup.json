@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD77965F-CC93-40BD-AE19-B1F9D943F58B}|ArabaSitesi.WebUI\\ArabaSitesi.WebUI.csproj|c:\\users\\bkesk\\source\\repos\\arabasitesi\\arabasitesi.webui\\areas\\admin\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD77965F-CC93-40BD-AE19-B1F9D943F58B}|ArabaSitesi.WebUI\\ArabaSitesi.WebUI.csproj|solutionrelative:arabasitesi.webui\\areas\\admin\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD77965F-CC93-40BD-AE19-B1F9D943F58B}|ArabaSitesi.WebUI\\ArabaSitesi.WebUI.csproj|c:\\users\\bkesk\\source\\repos\\arabasitesi\\arabasitesi.webui\\areas\\admin\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD77965F-CC93-40BD-AE19-B1F9D943F58B}|ArabaSitesi.WebUI\\ArabaSitesi.WebUI.csproj|solutionrelative:arabasitesi.webui\\areas\\admin\\views\\customers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD77965F-CC93-40BD-AE19-B1F9D943F58B}|ArabaSitesi.WebUI\\ArabaSitesi.WebUI.csproj|c:\\users\\bkesk\\source\\repos\\arabasitesi\\arabasitesi.webui\\areas\\admin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD77965F-CC93-40BD-AE19-B1F9D943F58B}|ArabaSitesi.WebUI\\ArabaSitesi.WebUI.csproj|solutionrelative:arabasitesi.webui\\areas\\admin\\controllers\\brandscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\Areas\\Admin\\Views\\Customers\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ArabaSitesi.WebUI\\Areas\\Admin\\Views\\Customers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\Areas\\Admin\\Views\\Customers\\Delete.cshtml*",
+              "RelativeToolTip": "ArabaSitesi.WebUI\\Areas\\Admin\\Views\\Customers\\Delete.cshtml*",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T12:20:25.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "ArabaSitesi.WebUI\\Areas\\Admin\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\Areas\\Admin\\Controllers\\CustomersController.cs*",
+              "RelativeToolTip": "ArabaSitesi.WebUI\\Areas\\Admin\\Controllers\\CustomersController.cs*",
+              "ViewState": "AgIAAF8AAAAAAAAAAADwv2wAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T11:54:02.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrandsController.cs",
+              "DocumentMoniker": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "RelativeDocumentMoniker": "ArabaSitesi.WebUI\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "ToolTip": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "RelativeToolTip": "ArabaSitesi.WebUI\\Areas\\Admin\\Controllers\\BrandsController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T10:49:18.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
