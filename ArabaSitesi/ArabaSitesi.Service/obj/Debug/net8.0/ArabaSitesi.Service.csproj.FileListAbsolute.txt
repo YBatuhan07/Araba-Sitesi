@@ -15,3 +15,20 @@ C:\Users\bkesk\source\repos\ArabaSitesi\ArabaSitesi.Service\bin\Debug\net8.0\Ara
 C:\Users\bkesk\source\repos\ArabaSitesi\ArabaSitesi.Service\bin\Debug\net8.0\ArabaSitesi.Entities.pdb
 C:\Users\bkesk\source\repos\ArabaSitesi\ArabaSitesi.Service\obj\Debug\net8.0\ArabaSitesi.Service.csproj.AssemblyReference.cache
 C:\Users\bkesk\source\repos\ArabaSitesi\ArabaSitesi.Service\obj\Debug\net8.0\ArabaSit.EF57F88D.Up2Date
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\bin\Debug\net8.0\ArabaSitesi.Service.deps.json
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\bin\Debug\net8.0\ArabaSitesi.Service.dll
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\bin\Debug\net8.0\ArabaSitesi.Service.pdb
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\bin\Debug\net8.0\ArabaSitesi.Data.dll
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\bin\Debug\net8.0\ArabaSitesi.Entities.dll
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\bin\Debug\net8.0\ArabaSitesi.Data.pdb
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\bin\Debug\net8.0\ArabaSitesi.Entities.pdb
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\obj\Debug\net8.0\ArabaSitesi.Service.csproj.AssemblyReference.cache
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\obj\Debug\net8.0\ArabaSitesi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\obj\Debug\net8.0\ArabaSitesi.Service.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\obj\Debug\net8.0\ArabaSitesi.Service.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\obj\Debug\net8.0\ArabaSitesi.Service.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\obj\Debug\net8.0\ArabaSit.EF57F88D.Up2Date
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\obj\Debug\net8.0\ArabaSitesi.Service.dll
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\obj\Debug\net8.0\refint\ArabaSitesi.Service.dll
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\obj\Debug\net8.0\ArabaSitesi.Service.pdb
+C:\Users\bkesk\Desktop\PROJELERİM\OTO SERVİS\ArabaSitesi-4\ArabaSitesi.Service\obj\Debug\net8.0\ref\ArabaSitesi.Service.dll

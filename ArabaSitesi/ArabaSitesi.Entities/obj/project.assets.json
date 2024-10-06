@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Entities\\ArabaSitesi.Entities.csproj",
+      "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\PROJELERİM\\OTO SERVİS\\ArabaSitesi-4\\ArabaSitesi.Entities\\ArabaSitesi.Entities.csproj",
       "projectName": "ArabaSitesi.Entities",
-      "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Entities\\ArabaSitesi.Entities.csproj",
+      "projectPath": "C:\\Users\\bkesk\\Desktop\\PROJELERİM\\OTO SERVİS\\ArabaSitesi-4\\ArabaSitesi.Entities\\ArabaSitesi.Entities.csproj",
       "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Entities\\obj\\",
+      "outputPath": "C:\\Users\\bkesk\\Desktop\\PROJELERİM\\OTO SERVİS\\ArabaSitesi-4\\ArabaSitesi.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bkesk\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArabaSitesi.Service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+acc6eeb504689418b7037c8425a08f1accde670a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArabaSitesi.Service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArabaSitesi.Service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
