@@ -1,3 +1,5 @@
+using ArabaSitesi.Entities;
+using ArabaSitesi.Service.Abstract;
 using ArabaSitesi.WebUI.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -6,16 +8,24 @@ namespace ArabaSitesi.WebUI.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly IService<Slider> _service;
+        private readonly ICarService _serviceArac;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IService<Slider> service, ICarService serviceArac)
         {
-            _logger = logger;
+            _service = service;
+            _serviceArac = serviceArac;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> IndexAsync()
         {
-            return View();
+            var model = new HomePageViewModel()
+            {
+                Sliders = await _service.GetAllAsync(),
+                Araclar = await _serviceArac.GetCustomCarList(a=> a.Anasayfa)
+            };
+                
+            return View(model);
         }
         public IActionResult Privacy()
         {

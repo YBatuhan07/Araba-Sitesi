@@ -2787,11 +2787,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\PROJELERİM\\OTO SERVİS\\ArabaSitesi-4\\ArabaSitesi.Service\\ArabaSitesi.Service.csproj",
+      "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi-\\ArabaSitesi.Service\\ArabaSitesi.Service.csproj",
       "projectName": "ArabaSitesi.Service",
-      "projectPath": "C:\\Users\\bkesk\\Desktop\\PROJELERİM\\OTO SERVİS\\ArabaSitesi-4\\ArabaSitesi.Service\\ArabaSitesi.Service.csproj",
+      "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi-\\ArabaSitesi.Service\\ArabaSitesi.Service.csproj",
       "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bkesk\\Desktop\\PROJELERİM\\OTO SERVİS\\ArabaSitesi-4\\ArabaSitesi.Service\\obj\\",
+      "outputPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi-\\ArabaSitesi.Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bkesk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2809,8 +2809,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\bkesk\\Desktop\\PROJELERİM\\OTO SERVİS\\ArabaSitesi-4\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj": {
-              "projectPath": "C:\\Users\\bkesk\\Desktop\\PROJELERİM\\OTO SERVİS\\ArabaSitesi-4\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj"
+            "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi-\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj": {
+              "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi-\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj"
             }
           }
         }

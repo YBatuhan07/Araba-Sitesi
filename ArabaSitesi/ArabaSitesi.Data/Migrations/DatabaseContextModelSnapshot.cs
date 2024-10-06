@@ -30,6 +30,9 @@ namespace ArabaSitesi.Data.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
+                    b.Property<bool>("Anasayfa")
+                        .HasColumnType("bit");
+
                     b.Property<decimal>("Fiyati")
                         .HasColumnType("decimal(18,2)");
 
@@ -137,7 +140,7 @@ namespace ArabaSitesi.Data.Migrations
                             Id = 1,
                             Adi = "Admin",
                             AktifMi = true,
-                            EklenmeTarihi = new DateTime(2024, 10, 6, 11, 20, 49, 39, DateTimeKind.Local).AddTicks(7994),
+                            EklenmeTarihi = new DateTime(2024, 10, 6, 20, 29, 50, 860, DateTimeKind.Local).AddTicks(2972),
                             Email = "admin@otoservissatis.tc",
                             KullaniciAdi = "admin",
                             RolId = 1,

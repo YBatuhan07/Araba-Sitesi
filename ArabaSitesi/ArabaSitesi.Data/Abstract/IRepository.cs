@@ -3,7 +3,7 @@
 namespace ArabaSitesi.Data.Abstract
 {
     // Generic bir repository arayüzü tanımlayan bir interface.
-    public interface Repository<T> where T : class
+    public interface IRepository<T> where T : class
     {
         // Tüm verileri liste olarak döndüren metot.
         List<T> GetAll();

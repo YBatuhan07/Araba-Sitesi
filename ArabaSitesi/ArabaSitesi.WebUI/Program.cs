@@ -18,6 +18,7 @@ namespace ArabaSitesi.WebUI
 
             // IService<> arayüzünü, Service<> sýnýfý ile iliþkilendirip her istekte yeni bir örnek (instance) oluþturulmasýný saðlar.
             builder.Services.AddTransient(typeof(IService<>), typeof(Service<>));
+            builder.Services.AddTransient<ICarService, CarService>();
 
             builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(x =>
             {

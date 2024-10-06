@@ -1,16 +1,11 @@
 ﻿using ArabaSitesi.Data.Abstract;
 using ArabaSitesi.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Linq.Expressions;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ArabaSitesi.Data.Concreate
 {
-    public class Repository<T> : Abstract.Repository<T> where T : class, IEntity, new()
+    public class Repository<T> : IRepository<T> where T : class, IEntity, new()
     {
         internal DatabaseContext _context;
         internal DbSet<T> _dbSet;
@@ -19,7 +14,6 @@ namespace ArabaSitesi.Data.Concreate
             _context = context;
             _dbSet = _context.Set<T>();
         }
-
 
         public void Add(T entity)
         {
