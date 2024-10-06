@@ -2,7 +2,7 @@
 
 namespace ArabaSitesi.Entities
 {
-    public class Satis
+    public class Satis : IEntity
     {
         public int Id { get; set; }
         [Display(Name = "Araç")]

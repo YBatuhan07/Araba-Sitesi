@@ -58,6 +58,18 @@ namespace ArabaSitesi.Data.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
 
+                    b.Property<string>("Resim1")
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("Resim2")
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("Resim3")
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
                     b.Property<bool>("SatistaMi")
                         .HasColumnType("bit");
 
@@ -125,7 +137,7 @@ namespace ArabaSitesi.Data.Migrations
                             Id = 1,
                             Adi = "Admin",
                             AktifMi = true,
-                            EklenmeTarihi = new DateTime(2024, 10, 5, 0, 8, 22, 827, DateTimeKind.Local).AddTicks(2686),
+                            EklenmeTarihi = new DateTime(2024, 10, 6, 11, 20, 49, 39, DateTimeKind.Local).AddTicks(7994),
                             Email = "admin@otoservissatis.tc",
                             KullaniciAdi = "admin",
                             RolId = 1,
@@ -171,7 +183,6 @@ namespace ArabaSitesi.Data.Migrations
                         .HasColumnType("nvarchar(500)");
 
                     b.Property<int>("AracId")
-                        .HasMaxLength(50)
                         .HasColumnType("int");
 
                     b.Property<string>("Email")
@@ -188,8 +199,8 @@ namespace ArabaSitesi.Data.Migrations
                         .HasColumnType("nvarchar(50)");
 
                     b.Property<string>("TcNo")
-                        .HasMaxLength(11)
-                        .HasColumnType("nvarchar(11)");
+                        .HasMaxLength(50)
+                        .HasColumnType("nvarchar(50)");
 
                     b.Property<string>("Telefon")
                         .HasMaxLength(15)
@@ -312,6 +323,35 @@ namespace ArabaSitesi.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Servisler");
+                });
+
+            modelBuilder.Entity("ArabaSitesi.Entities.Slider", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Aciklama")
+                        .HasMaxLength(500)
+                        .HasColumnType("nvarchar(500)");
+
+                    b.Property<string>("Baslik")
+                        .HasMaxLength(200)
+                        .HasColumnType("nvarchar(200)");
+
+                    b.Property<string>("Link")
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.Property<string>("Resim")
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Sliders");
                 });
 
             modelBuilder.Entity("ArabaSitesi.Entities.Arac", b =>

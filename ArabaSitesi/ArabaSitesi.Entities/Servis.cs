@@ -2,7 +2,7 @@
 
 namespace ArabaSitesi.Entities
 {
-    public class Servis
+    public class Servis: IEntity
     {
         public int Id { get; set; }
         [Display(Name = "Servise Geliş Tarihi")]

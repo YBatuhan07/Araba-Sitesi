@@ -5,6 +5,82 @@
       "PackagePath": "staticwebassets\\ArabaSitesi.WebUI.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\bmw-x7-1.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\bmw-x7-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\bmw-x7-2.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\bmw-x7-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\bmw-x7-3.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\bmw-x7-3.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\ferrari-sf90-1.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\ferrari-sf90-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\ferrari-sf90-2.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\ferrari-sf90-2.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\ferrari-sf90-3.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\ferrari-sf90-3.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\honda-civic1.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\honda-civic1.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\honda-civic2.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\honda-civic2.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\honda-civic3.png",
+      "PackagePath": "staticwebassets\\Img\\Cars\\honda-civic3.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\mercedes-e1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\mercedes-e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\mercedes-e2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\mercedes-e2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\mercedes-e3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\mercedes-e3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\porsche-panamera1.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\porsche-panamera1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\porsche-panamera2.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\porsche-panamera2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Cars\\porsche-panamera3.jpg",
+      "PackagePath": "staticwebassets\\Img\\Cars\\porsche-panamera3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Slider\\bmw-x7-1.png",
+      "PackagePath": "staticwebassets\\Img\\Slider\\bmw-x7-1.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Slider\\bmw-x7-3.png",
+      "PackagePath": "staticwebassets\\Img\\Slider\\bmw-x7-3.png"
+    },
+    {
+      "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\Img\\Slider\\ferrari-sf90-2.png",
+      "PackagePath": "staticwebassets\\Img\\Slider\\ferrari-sf90-2.png"
+    },
+    {
       "Id": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\wwwroot\\admin\\401.html",
       "PackagePath": "staticwebassets\\admin\\401.html"
     },

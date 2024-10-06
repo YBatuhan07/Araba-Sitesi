@@ -1,13 +1,14 @@
 ﻿using ArabaSitesi.Entities;
 using ArabaSitesi.Service.Abstract;
 using ArabaSitesi.Service.Concrete;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
 {
-    [Area("Admin")]
+    [Area("Admin"), Authorize]
     public class UsersController : Controller
     {
         private readonly IService<Kullanici> _service;

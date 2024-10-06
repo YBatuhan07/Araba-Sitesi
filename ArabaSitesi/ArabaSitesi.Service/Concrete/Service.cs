@@ -11,6 +11,11 @@ namespace ArabaSitesi.Service.Concrete
         {
         }
 
+        public Task<string?> FindAsync()
+        {
+            throw new NotImplementedException();
+        }
+
         Task IService<T>.DeleteAsync(int id)
         {
             throw new NotImplementedException();

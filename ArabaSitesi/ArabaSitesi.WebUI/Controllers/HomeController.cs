@@ -17,8 +17,12 @@ namespace ArabaSitesi.WebUI.Controllers
         {
             return View();
         }
-
         public IActionResult Privacy()
+        {
+            return View();
+        }
+        [Route("AccessDenied")]
+        public IActionResult AccessDenied()
         {
             return View();
         }

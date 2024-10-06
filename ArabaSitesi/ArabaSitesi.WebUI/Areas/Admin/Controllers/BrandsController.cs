@@ -1,5 +1,6 @@
 ﻿using ArabaSitesi.Entities;
 using ArabaSitesi.Service.Abstract;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
