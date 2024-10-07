@@ -6,10 +6,10 @@ namespace ArabaSitesi.Entities
     {
         public int Id { get; set; }
         [StringLength(50)]
-        [Display(Name = "Adı"), Required(ErrorMessage ="{0} Boş bırakılamaz")]
+        [Display(Name = "Ad"), Required(ErrorMessage ="{0} Boş bırakılamaz")]
         public string Adi { get; set; }
         [StringLength(50)]
-        [Display(Name = "Soyadı"), Required(ErrorMessage = "{0} Boş bırakılamaz")]
+        [Display(Name = "Soyad"), Required(ErrorMessage = "{0} Boş bırakılamaz")]
         public string Soyadi { get; set; }
         [StringLength(50), Required(ErrorMessage = "{0} Boş bırakılamaz")]
         public string Email { get; set; }
@@ -19,6 +19,7 @@ namespace ArabaSitesi.Entities
         [Display(Name = "Kullanıcı Adı")]
         public string? KullaniciAdi { get; set; }
         [StringLength(50), Required(ErrorMessage = "{0} Boş bırakılamaz")]
+        [Display(Name = "Şifre")]
         public string Sifre { get; set; }
         [Display(Name = "Aktif mi?")]
         public bool AktifMi { get; set; }

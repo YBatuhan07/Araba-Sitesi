@@ -7737,11 +7737,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi-\\ArabaSitesi.WebUI\\ArabaSitesi.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\ArabaSitesi.WebUI.csproj",
       "projectName": "ArabaSitesi.WebUI",
-      "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi-\\ArabaSitesi.WebUI\\ArabaSitesi.WebUI.csproj",
+      "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\ArabaSitesi.WebUI.csproj",
       "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi-\\ArabaSitesi.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bkesk\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7759,11 +7759,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi-\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj": {
-              "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi-\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj"
+            "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj": {
+              "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj"
             },
-            "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi-\\ArabaSitesi.Service\\ArabaSitesi.Service.csproj": {
-              "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi-\\ArabaSitesi.Service\\ArabaSitesi.Service.csproj"
+            "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Service\\ArabaSitesi.Service.csproj": {
+              "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Service\\ArabaSitesi.Service.csproj"
             }
           }
         }

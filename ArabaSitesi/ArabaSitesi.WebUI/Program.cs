@@ -2,6 +2,7 @@ using ArabaSitesi.Data;
 using ArabaSitesi.Service.Abstract;
 using ArabaSitesi.Service.Concrete;
 using Microsoft.AspNetCore.Authentication.Cookies;
+using System.Security.Claims;
 
 namespace ArabaSitesi.WebUI
 {
@@ -32,8 +33,9 @@ namespace ArabaSitesi.WebUI
 
             builder.Services.AddAuthorization(x =>
             {
-                x.AddPolicy("AdminPolicy",policy => policy.RequireClaim("Role","Admin"));
-                x.AddPolicy("UserPolicy",policy => policy.RequireClaim("Role","User"));
+                x.AddPolicy("AdminPolicy",policy => policy.RequireClaim("Rol","Admin"));
+                x.AddPolicy("UserPolicy",policy => policy.RequireClaim("Rol", "Admin","User"));
+                x.AddPolicy("CustomerPolicy",policy => policy.RequireClaim("Rol", "Admin", "User", "Customer"));
             });
 
             var app = builder.Build();
