@@ -20,12 +20,13 @@ namespace ArabaSitesi.WebUI
             // IService<> arayüzünü, Service<> sýnýfý ile iliþkilendirip her istekte yeni bir örnek (instance) oluþturulmasýný saðlar.
             builder.Services.AddTransient(typeof(IService<>), typeof(Service<>));
             builder.Services.AddTransient<ICarService, CarService>();
+            builder.Services.AddTransient<IUserService, UserService>();
 
             builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme).AddCookie(x =>
             {
-                x.LoginPath = "/Admin/Login";
+                x.LoginPath = "/Account/Login";
                 x.AccessDeniedPath = "/AccessDenied";
-                x.LogoutPath = "/Logout";
+                x.LogoutPath = "/Account/Logout";
                 x.Cookie.Name = "Admin";
                 x.Cookie.MaxAge = TimeSpan.FromDays(7);
                 x.Cookie.IsEssential = true;
@@ -33,9 +34,10 @@ namespace ArabaSitesi.WebUI
 
             builder.Services.AddAuthorization(x =>
             {
-                x.AddPolicy("AdminPolicy",policy => policy.RequireClaim("Rol","Admin"));
-                x.AddPolicy("UserPolicy",policy => policy.RequireClaim("Rol", "Admin","User"));
-                x.AddPolicy("CustomerPolicy",policy => policy.RequireClaim("Rol", "Admin", "User", "Customer"));
+                x.AddPolicy("AdminPolicy", policy => policy.RequireClaim(ClaimTypes.Role, "Admin"));
+                x.AddPolicy("UserPolicy", policy => policy.RequireClaim(ClaimTypes.Role, "Admin", "User"));
+                x.AddPolicy("CustomerPolicy", policy => policy.RequireClaim(ClaimTypes.Role, "Admin", "User", "Customer"));
+
             });
 
             var app = builder.Build();
