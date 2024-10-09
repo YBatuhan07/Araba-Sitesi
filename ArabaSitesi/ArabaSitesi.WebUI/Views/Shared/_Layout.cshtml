@@ -23,9 +23,6 @@
                             <a class="nav-link text-dark" asp-controller="Home" asp-action="">Anasayfa</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-controller="Home" asp-action="">Boş</a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link text-dark" asp-controller="Arac" asp-action="List">Tüm Araçlar</a>
                         </li>
                     </ul>
@@ -55,6 +52,7 @@
         </nav>
     </header>
     <div class="container">
+        @Html.Raw(TempData["Message"])
         <main role="main" class="pb-3">
             @RenderBody()
         </main>

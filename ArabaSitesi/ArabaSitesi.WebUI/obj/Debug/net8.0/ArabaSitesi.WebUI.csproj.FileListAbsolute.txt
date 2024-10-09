@@ -1552,3 +1552,11 @@ C:\Users\bkesk\source\repos\ArabaSitesi-\ArabaSitesi.WebUI\obj\Debug\net8.0\refi
 C:\Users\bkesk\source\repos\ArabaSitesi-\ArabaSitesi.WebUI\obj\Debug\net8.0\ArabaSitesi.WebUI.pdb
 C:\Users\bkesk\source\repos\ArabaSitesi-\ArabaSitesi.WebUI\obj\Debug\net8.0\ArabaSitesi.WebUI.genruntimeconfig.cache
 C:\Users\bkesk\source\repos\ArabaSitesi-\ArabaSitesi.WebUI\obj\Debug\net8.0\ref\ArabaSitesi.WebUI.dll
+C:\Users\bkesk\source\repos\ArabaSitesi\ArabaSitesi.WebUI\bin\Debug\net8.0\Castle.Core.dll
+C:\Users\bkesk\source\repos\ArabaSitesi\ArabaSitesi.WebUI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\bkesk\source\repos\ArabaSitesi\ArabaSitesi.WebUI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bkesk\source\repos\ArabaSitesi\ArabaSitesi.WebUI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bkesk\source\repos\ArabaSitesi\ArabaSitesi.WebUI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bkesk\source\repos\ArabaSitesi\ArabaSitesi.WebUI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\bkesk\source\repos\ArabaSitesi\ArabaSitesi.WebUI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bkesk\source\repos\ArabaSitesi\ArabaSitesi.WebUI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll

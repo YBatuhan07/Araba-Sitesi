@@ -2,6 +2,7 @@
 using ArabaSitesi.Service.Abstract;
 using ArabaSitesi.Service.Concrete;
 using ArabaSitesi.WebUI.Models;
+using ArabaSitesi.WebUI.Utils;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
@@ -81,10 +82,13 @@ namespace ArabaSitesi.WebUI.Controllers
                 {
                     await _serviceMusteri.AddAsync(musteri);
                     await _serviceMusteri.SaveAsync();
+                    //await MailHelper.SendMailAsync(musteri);
+                    TempData["Message"] = "<div class='alert alert-success'>Talebiniz alınmıştır </div>";
                     return Redirect("/Arac/Index/" + musteri.AracId);
                 }
                 catch
                 {
+                    TempData["Message"] = "<div class='alert alert-danger'>Talebiniz alınamadı</div>";
                     ModelState.AddModelError("", "Hata oluştu");
                 }
             }

@@ -24,6 +24,7 @@ namespace ArabaSitesi.Data
                 @"server = (LocalDB)\MSSQLLocalDB;database=ArabaSitesiNetCore;
                 integrated security=True;
                 MultipleActiveResultSets=True;");
+            optionsBuilder.UseLazyLoadingProxies();
             base.OnConfiguring(optionsBuilder);
         }
 
