@@ -64,3 +64,25 @@ C:\Users\bkesk\source\repos\ArabaSitesi-\ArabaSitesi.Entities\obj\Debug\net8.0\A
 C:\Users\bkesk\source\repos\ArabaSitesi-\ArabaSitesi.Entities\obj\Debug\net8.0\refint\ArabaSitesi.Entities.dll
 C:\Users\bkesk\source\repos\ArabaSitesi-\ArabaSitesi.Entities\obj\Debug\net8.0\ArabaSitesi.Entities.pdb
 C:\Users\bkesk\source\repos\ArabaSitesi-\ArabaSitesi.Entities\obj\Debug\net8.0\ref\ArabaSitesi.Entities.dll
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Entities\bin\Debug\net8.0\ArabaSitesi.Entities.deps.json
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Entities\bin\Debug\net8.0\ArabaSitesi.Entities.dll
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Entities\bin\Debug\net8.0\ArabaSitesi.Entities.pdb
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\ArabaSitesi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\ArabaSitesi.Entities.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\ArabaSitesi.Entities.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\ArabaSitesi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\ArabaSitesi.Entities.dll
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\refint\ArabaSitesi.Entities.dll
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\ArabaSitesi.Entities.pdb
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\ref\ArabaSitesi.Entities.dll
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\bin\Debug\net8.0\ArabaSitesi.Entities.deps.json
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\bin\Debug\net8.0\ArabaSitesi.Entities.dll
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\bin\Debug\net8.0\ArabaSitesi.Entities.pdb
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\ArabaSitesi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\ArabaSitesi.Entities.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\ArabaSitesi.Entities.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\ArabaSitesi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\ArabaSitesi.Entities.dll
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\refint\ArabaSitesi.Entities.dll
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\ArabaSitesi.Entities.pdb
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Debug\net8.0\ref\ArabaSitesi.Entities.dll

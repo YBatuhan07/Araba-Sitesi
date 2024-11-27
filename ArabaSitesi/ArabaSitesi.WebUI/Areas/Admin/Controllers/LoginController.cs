@@ -1,6 +1,7 @@
 ﻿using ArabaSitesi.Entities;
 using ArabaSitesi.Service.Abstract;
 using Microsoft.AspNetCore.Authentication;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using System.Security.Claims;
 
@@ -27,6 +28,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
             return Redirect("/Admin/Login");
         }
         [HttpPost]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<IActionResult> IndexAsync(string email, string password)
         {
             try

@@ -64,7 +64,7 @@
                 @Html.DisplayFor(modelItem => item.Notlar)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Arac.Marka.Adi)
+                @Html.DisplayFor(modelItem => item.Arac.KasaTipi)
             </td>
             <td>
                 <a class="btn btn-primary" asp-action="Edit" asp-route-id="@item.Id">Düzenle</a> |
@@ -73,4 +73,6 @@
         </tr>
 }
     </tbody>
+
 </table>
+<a class="btn btn-warning" asp-controller="Main">Geri dön</a>

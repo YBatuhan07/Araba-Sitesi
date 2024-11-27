@@ -38,6 +38,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: ServicesController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<ActionResult> CreateAsync(Servis servis)
         {
             if (ModelState.IsValid)
@@ -66,6 +67,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: ServicesController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<ActionResult> EditAsync(int id, Servis servis)
         {
             if (ModelState.IsValid)
@@ -94,6 +96,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: ServicesController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public ActionResult Delete(int id, Servis servis)
         {
             try

@@ -8,6 +8,7 @@ using System.Security.Claims;
 
 namespace ArabaSitesi.WebUI.Controllers
 {
+    
     public class AccountController : Controller
     {
         private readonly IUserService _service;
@@ -18,7 +19,6 @@ namespace ArabaSitesi.WebUI.Controllers
             _service = service;
             _serviceRol = serviceRol;
         }
-        [Authorize(Policy = "CustomerPolicy")]
         public IActionResult Index()
         {
             var email = User.FindFirst(ClaimTypes.Email)?.Value;
@@ -34,6 +34,7 @@ namespace ArabaSitesi.WebUI.Controllers
             return NotFound(); 
         }
         [HttpPost]
+        [Authorize(Policy = "AdminPolicy")]
         public IActionResult UserUpdate(Kullanici kullanici)
         {
             try
@@ -71,6 +72,7 @@ namespace ArabaSitesi.WebUI.Controllers
             return View();
         }
         [HttpPost]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<IActionResult> RegisterAsync(Kullanici kullanici)
         {
             if (ModelState.IsValid)
@@ -106,6 +108,7 @@ namespace ArabaSitesi.WebUI.Controllers
             return Redirect("/");
         }
         [HttpPost]
+        
         public async Task<IActionResult> LoginAsync(CustomerLoginViewModel customerViewModel)
         {
             try
@@ -139,7 +142,7 @@ namespace ArabaSitesi.WebUI.Controllers
                     {
                         return Redirect("/Admin");
                     }
-                    return Redirect("/Account");
+                    return Redirect("/");
                 }
             }
             catch (Exception)

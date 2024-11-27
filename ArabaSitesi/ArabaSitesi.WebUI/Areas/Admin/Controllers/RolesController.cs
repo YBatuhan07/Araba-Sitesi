@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
 {
-    [Area("Admin"), Authorize(Policy = "AdminPolicy")]
+    [Area("Admin")]
     public class RolesController : Controller
     {
         private readonly IService<Rol> _service;
@@ -38,6 +38,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: RolesController1/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public ActionResult Create(Rol rol)
         {
             try
@@ -62,6 +63,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: RolesController1/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public ActionResult Edit(int id, Rol rol)
         {
             try
@@ -86,6 +88,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: RolesController1/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public ActionResult Delete(int id, Rol rol)
         {
             try

@@ -38,6 +38,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: SlidersController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<ActionResult> CreateAsync(Slider collection, IFormFile? Resim)
         {
             try
@@ -63,6 +64,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: SlidersController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<ActionResult> EditAsync(int id, Slider collection, IFormFile? Resim)
         {
             try
@@ -91,6 +93,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: SlidersController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<ActionResult> DeleteAsync(int id, Slider collection)
         {
             try

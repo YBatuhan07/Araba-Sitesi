@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
 {
-    [Area("Admin"), Authorize(Policy = "AdminPolicy")]
+    [Area("Admin")]
     public class BrandsController : Controller
     {
         private readonly IService<Marka> _service;
@@ -38,6 +38,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: BrandsController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<ActionResult> CreateAsync(Marka marka)
         {
             try
@@ -63,6 +64,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: BrandsController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<ActionResult> EditAsync(int id, Marka marka)
         {
             try
@@ -88,6 +90,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: BrandsController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public ActionResult Delete(int id, Marka marka)
         {
             try

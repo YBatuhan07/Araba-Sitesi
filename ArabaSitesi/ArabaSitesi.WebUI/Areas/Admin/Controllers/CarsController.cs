@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
 {
-    [Area("Admin"), Authorize(Policy = "AdminPolicy")]
+    [Area("Admin")]
     public class CarsController : Controller
         {
         private readonly ICarService _service;
@@ -43,6 +43,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: CarsController/Create
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<ActionResult> CreateAsync(Arac arac, IFormFile? Resim1, IFormFile? Resim2, IFormFile? Resim3)
         {
             if (ModelState.IsValid)
@@ -76,6 +77,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: CarsController/Edit/5
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<ActionResult> EditAsync(int id, Arac arac, IFormFile? Resim1, IFormFile? Resim2, IFormFile? Resim3)
         {
             if (ModelState.IsValid)
@@ -117,6 +119,7 @@ namespace ArabaSitesi.WebUI.Areas.Admin.Controllers
         // POST: CarsController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
+        [Authorize(Policy = "AdminPolicy")]
         public async Task<ActionResult> DeleteAsync(int id, Arac arac)
         {
             try

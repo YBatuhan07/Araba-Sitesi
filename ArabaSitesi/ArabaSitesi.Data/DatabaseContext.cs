@@ -1,15 +1,18 @@
 ﻿using ArabaSitesi.Entities;
 using Microsoft.EntityFrameworkCore;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.Extensions.Configuration;
 
 namespace ArabaSitesi.Data
 {
     public class DatabaseContext : DbContext
     {
+        private readonly IConfiguration _configuration;
+
+        public DatabaseContext(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
+
         public DbSet<Arac> Araclar { get; set; }
         public DbSet<Kullanici> Kullanicilar { get; set; }
         public DbSet<Marka> Markalar { get; set; }
@@ -20,11 +23,9 @@ namespace ArabaSitesi.Data
         public DbSet<Slider> Sliders { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(
-                @"server = (LocalDB)\MSSQLLocalDB;database=ArabaSitesiNetCore;
-                integrated security=True;
-                MultipleActiveResultSets=True;");
-            optionsBuilder.UseLazyLoadingProxies();
+            var connectionString = _configuration.GetConnectionString("DefaultConnection");
+            optionsBuilder.UseSqlServer(connectionString);
+
             base.OnConfiguring(optionsBuilder);
         }
 

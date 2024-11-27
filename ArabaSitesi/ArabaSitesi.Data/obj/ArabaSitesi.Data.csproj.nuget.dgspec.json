@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj": {}
+    "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj": {
+    "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj",
+        "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj",
         "projectName": "ArabaSitesi.Data",
-        "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj",
+        "projectPath": "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj",
         "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Data\\obj\\",
+        "outputPath": "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Data\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\bkesk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Entities\\ArabaSitesi.Entities.csproj": {
-                "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Entities\\ArabaSitesi.Entities.csproj"
+              "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Entities\\ArabaSitesi.Entities.csproj": {
+                "projectPath": "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Entities\\ArabaSitesi.Entities.csproj"
               }
             }
           }
@@ -43,8 +46,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -81,21 +85,25 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Entities\\ArabaSitesi.Entities.csproj": {
+    "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Entities\\ArabaSitesi.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Entities\\ArabaSitesi.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Entities\\ArabaSitesi.Entities.csproj",
         "projectName": "ArabaSitesi.Entities",
-        "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Entities\\ArabaSitesi.Entities.csproj",
+        "projectPath": "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Entities\\ArabaSitesi.Entities.csproj",
         "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Entities\\obj\\",
+        "outputPath": "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Entities\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\bkesk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -103,7 +111,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -120,8 +127,9 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "direct"
-        }
+          "auditMode": "all"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -142,7 +150,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

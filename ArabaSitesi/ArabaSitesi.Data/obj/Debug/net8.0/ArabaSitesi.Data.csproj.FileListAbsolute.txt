@@ -100,3 +100,37 @@ C:\Users\bkesk\source\repos\ArabaSitesi-\ArabaSitesi.Data\obj\Debug\net8.0\refin
 C:\Users\bkesk\source\repos\ArabaSitesi-\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.pdb
 C:\Users\bkesk\source\repos\ArabaSitesi-\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.genruntimeconfig.cache
 C:\Users\bkesk\source\repos\ArabaSitesi-\ArabaSitesi.Data\obj\Debug\net8.0\ref\ArabaSitesi.Data.dll
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\bin\Debug\net8.0\ArabaSitesi.Data.deps.json
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\bin\Debug\net8.0\ArabaSitesi.Data.runtimeconfig.json
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\bin\Debug\net8.0\ArabaSitesi.Data.dll
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\bin\Debug\net8.0\ArabaSitesi.Data.pdb
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\bin\Debug\net8.0\ArabaSitesi.Entities.dll
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\bin\Debug\net8.0\ArabaSitesi.Entities.pdb
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.csproj.AssemblyReference.cache
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSit.16748FA2.Up2Date
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.dll
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\refint\ArabaSitesi.Data.dll
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.pdb
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.genruntimeconfig.cache
+C:\Users\bkesk\Desktop\Tamamlanmış Projelerim\OTO SERVİS\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ref\ArabaSitesi.Data.dll
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\bin\Debug\net8.0\ArabaSitesi.Data.deps.json
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\bin\Debug\net8.0\ArabaSitesi.Data.runtimeconfig.json
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\bin\Debug\net8.0\ArabaSitesi.Data.dll
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\bin\Debug\net8.0\ArabaSitesi.Data.pdb
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\bin\Debug\net8.0\ArabaSitesi.Entities.dll
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\bin\Debug\net8.0\ArabaSitesi.Entities.pdb
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.csproj.AssemblyReference.cache
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSit.16748FA2.Up2Date
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.dll
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\refint\ArabaSitesi.Data.dll
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.pdb
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ArabaSitesi.Data.genruntimeconfig.cache
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Data\obj\Debug\net8.0\ref\ArabaSitesi.Data.dll

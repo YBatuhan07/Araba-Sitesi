@@ -16,5 +16,6 @@
     <WebStackScaffolding_DbContextTypeFullName>ArabaSitesi.Data.DatabaseContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_LayoutPageFile>
     </WebStackScaffolding_LayoutPageFile>
+    <NameOfLastUsedPublishProfile>C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.WebUI\Properties\PublishProfiles\FTPProfile.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

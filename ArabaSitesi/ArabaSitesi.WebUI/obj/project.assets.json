@@ -7805,19 +7805,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\bkesk\\.nuget\\packages\\": {}
+    "C:\\Users\\bkesk\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\ArabaSitesi.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.WebUI\\ArabaSitesi.WebUI.csproj",
       "projectName": "ArabaSitesi.WebUI",
-      "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\ArabaSitesi.WebUI.csproj",
+      "projectPath": "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.WebUI\\ArabaSitesi.WebUI.csproj",
       "packagesPath": "C:\\Users\\bkesk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.WebUI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\bkesk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -7825,18 +7830,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj": {
-              "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj"
+            "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj": {
+              "projectPath": "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Data\\ArabaSitesi.Data.csproj"
             },
-            "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Service\\ArabaSitesi.Service.csproj": {
-              "projectPath": "C:\\Users\\bkesk\\source\\repos\\ArabaSitesi\\ArabaSitesi.Service\\ArabaSitesi.Service.csproj"
+            "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Service\\ArabaSitesi.Service.csproj": {
+              "projectPath": "C:\\Users\\bkesk\\Desktop\\ArabaSitesi-11\\ArabaSitesi.Service\\ArabaSitesi.Service.csproj"
             }
           }
         }
@@ -7849,8 +7853,9 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "direct"
-      }
+        "auditMode": "all"
+      },
+      "SdkAnalysisLevel": "9.0.100"
     },
     "frameworks": {
       "net8.0": {
@@ -7886,8 +7891,70 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Azure.Identity' 1.10.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-wvxc-855f-jvrv",
+      "libraryId": "Azure.Identity",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Identity.Client' 4.56.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-m5vv-6r4h-3vj9",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Microsoft.Identity.Client' 4.56.0 has a known low severity vulnerability, https://github.com/advisories/GHSA-x674-v45j-fwxw",
+      "libraryId": "Microsoft.Identity.Client",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Formats.Asn1' 6.0.0 has a known high severity vulnerability, https://github.com/advisories/GHSA-447r-wph3-92pm",
+      "libraryId": "System.Formats.Asn1",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    },
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'System.Text.Json' 8.0.4 has a known high severity vulnerability, https://github.com/advisories/GHSA-8g4q-xg66-9fp4",
+      "libraryId": "System.Text.Json",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
 }

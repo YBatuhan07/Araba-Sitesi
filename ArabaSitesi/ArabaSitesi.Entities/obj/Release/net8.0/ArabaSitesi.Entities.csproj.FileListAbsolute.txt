@@ -1,0 +1,11 @@
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\bin\Release\net8.0\ArabaSitesi.Entities.deps.json
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\bin\Release\net8.0\ArabaSitesi.Entities.dll
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\bin\Release\net8.0\ArabaSitesi.Entities.pdb
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Release\net8.0\ArabaSitesi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Release\net8.0\ArabaSitesi.Entities.AssemblyInfoInputs.cache
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Release\net8.0\ArabaSitesi.Entities.AssemblyInfo.cs
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Release\net8.0\ArabaSitesi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Release\net8.0\ArabaSitesi.Entities.dll
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Release\net8.0\refint\ArabaSitesi.Entities.dll
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Release\net8.0\ArabaSitesi.Entities.pdb
+C:\Users\bkesk\Desktop\ArabaSitesi-11\ArabaSitesi.Entities\obj\Release\net8.0\ref\ArabaSitesi.Entities.dll
